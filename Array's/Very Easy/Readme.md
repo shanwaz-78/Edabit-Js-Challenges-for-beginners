@@ -6,3 +6,4 @@
 ### __4.__ -> <u>[Is The Number less than or Equal to Zero.](./Is%20the%20Number%20Less%20than%20or%20Equal%20to%20Zero.js)</u><br>
 ### __5.__ -> <u>[Less Than Greater Than.](./Less%20Than%2C%20Greater%20Than.js)</u><br>
 ### __6.__ -> <u>[Return Types.](./return%20types.js)</u>
+### __7.__ -> <u>[Pair Management.](./Pair%20Management.js)</u>
